@@ -1,0 +1,16 @@
+{
+  "name": "hapi-tape",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "tape ./tests/**/*.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "hapi": "^15.2.0",
+    "tape": "^4.6.2"
+  }
+}
